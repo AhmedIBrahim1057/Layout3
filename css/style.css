@@ -88,9 +88,9 @@ canvas{
 #particles-js{
   width: 100%;
   height: 100%;
-  background-color: #b61924;
-  background-image: url('../img/Front-21.jpg');
-  background-size: cover;
+  background-color: #fff;
+  background-image: url('../img/background.png');
+  background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
